@@ -732,7 +732,7 @@ DP.Emotes = {
    {
        EmoteLoop = true,
    }},
-   ["lean5"] = {"amb@world_human_leaning@male@wall@back@hands_together@idle_b", "idle_b", "Lean 5", AnimationOptions =
+   ["lean5"] = {"amb@world_human_leaning@male@wall@back@hands_together@idle_a", "idle_b", "Lean 5", AnimationOptions =
    {
        EmoteLoop = true,
    }},
